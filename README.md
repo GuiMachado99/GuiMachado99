@@ -1,5 +1,5 @@
 # ❇️ Hello! I'm Guilherme Machado.
-## Welcome to my Github profile. I am a Systems Analysis and Development student at Uniasselvi University. 🌐💻
+## Welcome to my Github profile. I am a Systems Analysis and Development student. 🌐💻
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimachado99&show_icons=true&theme=dark&include_all_commits=true&count_private-true"/>
